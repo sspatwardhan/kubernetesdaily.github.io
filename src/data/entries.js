@@ -47,6 +47,12 @@ export const entries = [
       github: "ArmDeveloperEcosystem",
       tag: "Cluster Management"
     },
+    {title: "Freelens",
+      link: "https://github.com/freelensapp/freelens",
+      description: "Brief description of the tool",
+      github: "freelensapp",
+      tag: "Cluster Management"
+},
     
     // Pods Management
     {
